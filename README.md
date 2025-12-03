@@ -1,6 +1,8 @@
 # Decoding Dog Whistles with LLMs
 
-This repo accompanies the project **“Decoding Dog Whistles: LLMs and the Detection of Covert Harmful Speech.”** :contentReference[oaicite:0]{index=0}
+This repo accompanies the project **“Decoding Dog Whistles: LLMs and the Detection of Covert Harmful Speech.”**
+
+Key findings are presented in [final report](./QTM340_Final_Report.pdf).
 
 We study how well large language models detect and interpret *political dog whistles*—terms that seem neutral to most people but carry harmful coded meanings to specific groups.
 
