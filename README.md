@@ -43,7 +43,7 @@ We evaluate four LLMs on two main tasks:
   - 124 examples total
   - 13 dog whistle keywords, each with both coded and non-coded usages
 
-Datasets are derived from the Silent Signals Corpus and dog whistle glossaries in prior work. :contentReference[oaicite:1]{index=1}
+Datasets are derived from the Silent Signals Corpus and dog whistle glossaries in prior work. :contentReference[oaicite:1]{index=1} [[1]](https://huggingface.co/datasets/SALT-NLP/silent_signals)
 
 ---
 
