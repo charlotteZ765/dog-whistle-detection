@@ -63,3 +63,5 @@ Datasets are derived from the Silent Signals Corpus and dog whistle glossaries i
 - Few-shot prompts can be expensive to run at scale.
 
 ---
+## References 
+[1] SALT-NLP. Silent Signals Corpus. https://huggingface.co/datasets/SALT-NLP/silent_signals
